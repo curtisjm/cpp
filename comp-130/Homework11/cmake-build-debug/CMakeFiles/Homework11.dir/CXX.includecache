@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/curti/Google Drive/CLion/Comp 130/Homework11/Habitats.cpp
+Habitats.h
+C:/Users/curti/Google Drive/CLion/Comp 130/Homework11/Habitats.h
+
+C:/Users/curti/Google Drive/CLion/Comp 130/Homework11/Habitats.h
+iostream
+-
+vector
+-
+
+C:/Users/curti/Google Drive/CLion/Comp 130/Homework11/main.cpp
+Habitats.h
+C:/Users/curti/Google Drive/CLion/Comp 130/Homework11/Habitats.h
+iostream
+-
+

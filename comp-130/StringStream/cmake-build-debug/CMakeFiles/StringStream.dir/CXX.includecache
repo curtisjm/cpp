@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/curti/Google Drive/CLion/Comp 130/StringStream/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+

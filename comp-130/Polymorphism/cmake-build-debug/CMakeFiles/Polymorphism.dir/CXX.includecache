@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/curti/Google Drive/CLion/Comp 130/Polymorphism/main.cpp
+iostream
+-
+people.h
+C:/Users/curti/Google Drive/CLion/Comp 130/Polymorphism/people.h
+
+C:/Users/curti/Google Drive/CLion/Comp 130/Polymorphism/people.cpp
+people.h
+C:/Users/curti/Google Drive/CLion/Comp 130/Polymorphism/people.h
+
+C:/Users/curti/Google Drive/CLion/Comp 130/Polymorphism/people.h
+iostream
+-
+string
+-
+
