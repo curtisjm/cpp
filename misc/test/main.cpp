@@ -1,7 +1,3 @@
-//file: main.cpp
-//name: Will Metz,
-//date: 11/13/21
-//compiler used: clang ver 7.0.0-3 (via replit.com)
 
 #include <iostream>
 #include <string>
