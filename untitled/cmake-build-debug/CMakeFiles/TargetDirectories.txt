@@ -1,3 +1,0 @@
-C:/repos/langs/cpp/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/repos/langs/cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir
-C:/repos/langs/cpp/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
